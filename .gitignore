@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# RadiantEarth Data
+
+/ref_south_africa_crops_competition_v1_train_labels
+/ref_south_africa_crops_competition_v1_test_labels
+/ref_south_africa_crops_competition_v1_train_source_s1
+/ref_south_africa_crops_competition_v1_test_source_s1
+/ref_south_africa_crops_competition_v1_train_source_s2
+/ref_south_africa_crops_competition_v1_test_source_s2
